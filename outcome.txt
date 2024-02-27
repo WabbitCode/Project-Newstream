@@ -1,0 +1,4 @@
+{"Category": "HUSMAN", "Dish": "Stekt fläsk med raggmunk & lingonsylt  LG"}
+{"Category": "VÄRLDEN", "Dish": "Tacogratäng med ostcréme, nachos & ris  L"}
+{"Category": "FISK", "Dish": "Sejfilé med paprikasås, purjolök, fetaost, örter & kokt potatis  L"}
+{"Category": "VEGO", "Dish": "Pasta med zucchini, svamp, sojabönor, tryffelolja & riven grana padano  LG"}
