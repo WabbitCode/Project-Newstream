@@ -2,7 +2,7 @@ import json
 from playwright.sync_api import sync_playwright
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(channel='msedge')
+    browser = p.chromium.launch(channel='msedge', headless=False)
     page = browser.new_page()
     page.goto('https://www.koknystrom.se/')
     page.wait_for_selector('.dish')
